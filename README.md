@@ -34,6 +34,11 @@ Database Name : springbootapi
 ```
 ## Preview Back-End
 
+Below we are testing the REST APIs that we have developed using Spring Boot JPA.
+ ```
+ Tool used - POSTMAN
+ ```
+
 <img src="backend.png" 
 alt="IMAGE ALT TEXT HERE" width="800" height="400" border="10" />
 
