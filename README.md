@@ -6,7 +6,7 @@ This Repository contains Restful Api CRUD operations using Spring Boot ,JPA and 
 Run Project : Download or clone -> Import project ->Run as Spring Boot Application
 ```
 
-## Back-End Details
+# Back-End Details
 In Back-End APIs are developed using Spring Boot Jpa and Hibernate.
 ```
 Using Spring Boot embedded Tomcat Server.
@@ -32,7 +32,12 @@ Database Name : springbootapi
 7.patchUpdateById      -----PATCH
 
 ```
-# Front-End
+## Preview Back-End
+
+<img src="backend.png" 
+alt="IMAGE ALT TEXT HERE" width="800" height="400" border="10" />
+
+# Front-End Detail
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
@@ -60,6 +65,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## Preview Front End
 <img src="frontend.png" 
 alt="IMAGE ALT TEXT HERE" width="800" height="400" border="10" />
 
