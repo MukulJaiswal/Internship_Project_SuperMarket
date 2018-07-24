@@ -1,4 +1,4 @@
-# Internship_Project_SuperMarket
+# Internship Project SuperMarket
 
 This Repository contains Restful Api CRUD operations using Spring Boot ,JPA and Hibernate in the Backend and Front End is Developed using Angular v6.
 
